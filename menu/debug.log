@@ -1,0 +1,8 @@
+[0209/213049:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Access is denied. (0x5)
+[0209/213049:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0209/213049:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Access is denied. (0x5)
+[0210/001328:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Access is denied. (0x5)
+[0210/001328:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0210/001328:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Access is denied. (0x5)
+[0210/101652:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0210/101652:ERROR:node_debugger.cc(86)] Cannot start debugger server
